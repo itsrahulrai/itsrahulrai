@@ -87,10 +87,10 @@
 
 ## 📊 **GitHub Stats**  
 <p align="center">
-    <a href="https://github.com/yourusername">
+    <a href="https://github.com/itsrahulrai">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
     </a>
-    <a href="https://github.com/yourusername">
+    <a href="https://github.com/itsrahulrai">
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
     </a>
 </p>
@@ -107,16 +107,16 @@
 ## 🔗 Connect with Me  
 
 <p align="left">
-    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://twitter.com/yourprofile"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-    <a href="https://www.instagram.com/yourprofile/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
+    <a href="https://linkedin.com/in/itsrahulrai"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href="https://twitter.com/itsrahulrai"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+    <a href="https://www.instagram.com/itsrahulrai/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href="mailto:therahulray@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 </p>
 
 ---
 
 ## ❤ Views and Followers  
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=yourusername">
-    <a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"></a>
+    <img src="https://komarev.com/ghpvc/?username=itsrahulrai">
+    <a href="https://github.com/itsrahulrai?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
