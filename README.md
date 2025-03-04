@@ -7,30 +7,52 @@
 
 ## 🙋‍♂️ About Me  
 
-- 💼 **I’m a Laravel Developer & currently learning MERN Stack**  
-- 🎯 **Goal:** To become a Full Stack Developer with expertise in MERN Stack  
-- 🚀 **Currently Exploring:** React.js, Node.js, Express.js, and MongoDB  
-- 🌱 **Always Learning:** New web technologies & best coding practices  
-- 👨‍💻 **I’m open to collaborating on Open Source & Full Stack Projects**  
-- 🔥 **Passionate About:** Writing clean code & optimizing performance  
-- 💡 **Ask me about:** Laravel, PHP, React.js, API development, & database optimization  
-- 📫 **Reach me at:** [therahulray@gmail.com](therahulray@gmail.com)  
-- 🖥 **My Development Environment:**  
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+📌 **Laravel Developer | Learning MERN Stack | Passionate Full Stack Developer**  
+
+🎯 **Goal:** Become a Full Stack Developer with expertise in the MERN Stack.  
+
+🚀 **Currently Exploring:**  
+🔹 React.js 🔹 Node.js 🔹 Express.js 🔹 MongoDB  
+
+🌱 **Always Learning:**  
+✅ New Web Technologies  
+✅ Best Coding Practices  
+✅ Scalable System Architecture  
+
+👨‍💻 **Collaboration Interests:**  
+🔹 Open Source Projects  
+🔹 Full Stack Web Apps  
+
+🔥 **Tech Passion:**  
+✅ Writing Clean Code  
+✅ API Development  
+✅ Performance Optimization  
+
+💡 **Ask Me About:**  
+🔹 Laravel 🔹 PHP 🔹 React.js 🔹 Database Optimization 🔹 API Development  
+
+📩 **Reach Me At:**  
+📧 [therahulray@gmail.com](mailto:therahulray@gmail.com)  
+
+🖥 **My Development Environment:**  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
 ## 🌎 Live Projects  
 
-### 🏆 **My Recent Work**
 🚀 **Check out some of the websites I have developed:**  
-1️⃣ **[ExamBox24hrs](https://exambox24hrs.com/)** - *Quiz Based Website built with Laravel & JavaScript*  
-2️⃣ **[Project Name 2](https://yourwebsite2.com)** - *Hotel Booking Platform using Laravel & MySQL*  
-3️⃣ **[Project Name 3](https://yourwebsite3.com)** - *MERN Stack Social Media App*  
 
-> 💡 *More projects coming soon...*  
+| 🌟 **Project** | 🛠 **Tech Stack** | 🔗 **Live Demo** |
+|--------------|----------------|---------------|
+| **[ExamBox24hrs](https://exambox24hrs.com/)** | Laravel, JavaScript | 🔗 [Visit Now](https://exambox24hrs.com/) |
+| **[Project Name 2](https://yourwebsite2.com)** | Laravel, MySQL | 🔗 [Visit Now](https://yourwebsite2.com) |
+| **[Project Name 3](https://yourwebsite3.com)** | MERN Stack (React, Node.js, MongoDB) | 🔗 [Visit Now](https://yourwebsite3.com) |
+
+> 💡 *More projects coming soon...* 🚀
 
 ---
+
 
 ## 🚀 **Tech Stack**  
 
