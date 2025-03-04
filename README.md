@@ -1,7 +1,11 @@
-<a href="#"><img width="100%" height="auto" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height="175px"/></a>
+<a href="#"><img width="100%" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rahul </h1>
 <h3 align="center">Laravel Developer | Learning MERN Stack | Passionate Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F75C7E&width=600&lines=Laravel+Developer+%7C+MERN+Stack+Learner;Passionate+Full+Stack+Developer;Building+Scalable+Web+Apps;Always+Learning+%26+Growing" />
+</p>
 
 ---
 
@@ -14,27 +18,13 @@
 - 👨‍💻 **I’m open to collaborating on Open Source & Full Stack Projects**  
 - 🔥 **Passionate About:** Writing clean code & optimizing performance  
 - 💡 **Ask me about:** Laravel, PHP, React.js, API development, & database optimization  
-- 📫 **Reach me at:** [therahulray@gmail.com](therahulray@gmail.com)  
-- 🖥 **My Development Environment:**  
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
----
-
-## 🌎 Live Projects  
-
-### 🏆 **My Recent Work**
-🚀 **Check out some of the websites I have developed:**  
-1️⃣ **[ExamBox24hrs](https://exambox24hrs.com/)** - *Quiz Based Website built with Laravel & JavaScript*  
-2️⃣ **[Project Name 2](https://yourwebsite2.com)** - *Hotel Booking Platform using Laravel & MySQL*  
-3️⃣ **[Project Name 3](https://yourwebsite3.com)** - *MERN Stack Social Media App*  
-
-> 💡 *More projects coming soon...*  
+- 📫 **Reach me at:** [therahulray@gmail.com](mailto:therahulray@gmail.com)  
 
 ---
 
 ## 🚀 My Skills   
 
-<table>
+<table align="center">
   <tr>
     <th>Frontend</th>
     <th>Backend & Database</th>
@@ -62,10 +52,22 @@
       <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
       <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
       <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48px" alt="Postman"/>
+      <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
     </td>
   </tr>
 </table>
 
+---
+
+## 🌎 Live Projects  
+
+### 🏆 **My Recent Work**
+🚀 **Check out some of the websites I have developed:**  
+1️⃣ **[ExamBox24hrs](https://exambox24hrs.com/)** - *Quiz Based Website built with Laravel & JavaScript*  
+2️⃣ **[Project Name 2](https://yourwebsite2.com)** - *Hotel Booking Platform using Laravel & MySQL*  
+3️⃣ **[Project Name 3](https://yourwebsite3.com)** - *MERN Stack Social Media App*  
+
+> 💡 *More projects coming soon...*  
 
 ---
 
@@ -94,7 +96,7 @@
 
 ## 🔗 Connect with Me  
 
-<p align="left">
+<p align="center">
     <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href="https://twitter.com/yourprofile"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
     <a href="https://www.instagram.com/yourprofile/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
@@ -104,7 +106,7 @@
 ---
 
 ## ❤ Views and Followers  
-<p align="left">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=yourusername">
     <a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
