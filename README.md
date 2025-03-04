@@ -18,7 +18,6 @@
 - 🖥 **My Development Environment:**  
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
-
 ---
 
 ## 🌎 Live Projects  
@@ -35,33 +34,39 @@
 
 ## 🚀 Tech Stack  
 
-### 🖥️ **Frontend**  
-<p align="left">
-    <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
-    <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
-    <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
-    <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js" />
-    <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
-</p>
+### 📌 My Skills in a Single Box Layout  
 
-### ⚙️ **Backend & Database**  
-<p align="left">
-    <img src="https://img.icons8.com/color/48/laravel.png" alt="Laravel" />
-    <img src="https://img.icons8.com/color/48/php.png" alt="PHP" />
-    <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
-    <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
-    <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
-    <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
-</p>
-
-### 🛠 **Tools & Platforms**  
-<p align="left">
-    <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
-    <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" />
-    <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" />
-    <img src="https://img.icons8.com/color/48/postman-api.png" alt="Postman" />
-    <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" />
-</p>
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend & Database</th>
+    <th>Tools & Platforms</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
+      <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+      <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+      <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js"/>
+      <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/laravel.png" alt="Laravel"/>
+      <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
+      <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+      <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+      <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+      <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+      <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+      <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+      <img src="https://img.icons8.com/color/48/postman-api.png" alt="Postman"/>
+      <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
