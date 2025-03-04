@@ -91,8 +91,8 @@
     <a href="https://github.com/itsrahulrai">
         <img src="https://github-readme-stats.vercel.app/api?username=itsrahulrai&show_icons=true&count_private=true&theme=radical&hide_border=true" width="48%" />
     </a>
-    <a href="https://github.com/itsrahulrai">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrahulrai&theme=radical&hide_border=true" width="48%" />
+   <a href="https://github.com/itsrahulrai">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsrahulrai&theme=radical" width="98%" />
     </a>
     <br/>
     
