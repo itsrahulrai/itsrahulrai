@@ -40,33 +40,33 @@
     <th>Tools & Platforms</th>
   </tr>
   <tr>
-   <td align="center">
-    <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
-    <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-    <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
-    <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js"/>
-    <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
-    <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="48px" alt="Tailwind CSS"/>
-</td>
- </tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
+      <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+      <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+      <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js"/>
+      <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+      <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="48px" alt="Tailwind CSS"/>
+    </td>
 
     <td align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="48px" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="48px" alt="Laravel"/>
       <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
       <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
       <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
       <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
       <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
     </td>
-   <td align="center">
-    <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-    <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
-    <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48px" alt="Postman"/>
-</td>
 
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+      <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+      <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48px" alt="Postman"/>
+    </td>
   </tr>
 </table>
+
 
 ---
 
