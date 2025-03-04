@@ -29,9 +29,6 @@
 📩 **Reach Me At:**  
 📧 [therahulray@gmail.com](mailto:therahulray@gmail.com)  
 
-🖥 **My Development Environment:**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
 ---
 
 ## 🚀 **Tech Stack**  
