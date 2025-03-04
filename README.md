@@ -48,6 +48,7 @@
     <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
     <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="48px" alt="Tailwind CSS"/>
 </td>
+ </tr>
 
     <td align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="48px" />
