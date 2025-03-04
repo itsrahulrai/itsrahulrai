@@ -59,7 +59,8 @@
       <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
       <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
       <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
-      <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" width="48px" />
+     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48px" alt="Postman"/>
+
     </td>
   </tr>
 </table>
