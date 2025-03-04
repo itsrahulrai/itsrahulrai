@@ -32,10 +32,7 @@
 
 ---
 
-## 🚀 Tech Stack  
-
-### 📌 My Skills in a Single Box Layout  
-
+## 🚀 My Skills   
 <table>
   <tr>
     <th>Frontend</th>
@@ -51,7 +48,7 @@
       <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/laravel.png" alt="Laravel"/>
+      ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
       <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
       <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
       <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
@@ -62,7 +59,9 @@
       <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
       <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
       <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
-      <img src="https://img.icons8.com/color/48/postman-api.png" alt="Postman"/>
+    
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
       <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
     </td>
   </tr>
