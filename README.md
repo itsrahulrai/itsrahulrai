@@ -82,6 +82,9 @@
 
 > 💡 *More projects coming soon...* 🚀
 
+
+
+
 ---
 
 ## 📊 **GitHub Stats**  
@@ -89,18 +92,50 @@
     <a href="https://github.com/itsrahulrai">
         <img src="https://github-readme-stats.vercel.app/api?username=itsrahulrai&show_icons=true&count_private=true&theme=radical&hide_border=true" width="48%" />
     </a>
-  
+    <a href="https://github.com/itsrahulrai">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrahulrai&theme=radical&hide_border=true" width="48%" />
+    </a>
+    <br/>
+    <a href="https://github.com/itsrahulrai">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsrahulrai&theme=radical" width="98%" />
+    </a>
 </div>
 
 ---
 
 ## 📈 **Contribution Graph**  
- 
-    <a href="https://github.com/itsrahulrai">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsrahulrai&theme=radical" width="98%" />
-    </a>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsrahulrai&theme=github-dark&hide_border=true" width="98%" />
+</div>
 
 ---
+
+## 🚀 **Top Languages**
+<div align="center">
+    <a href="https://github.com/itsrahulrai">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrahulrai&layout=compact&theme=radical&hide_border=true" width="48%" />
+    </a>
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**  
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=itsrahulrai&theme=radical&no-frame=true&margin-w=10" />
+</div>
+
+---
+
+## 💡 **Recent GitHub Activity**
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsrahulrai&theme=react-dark&hide_border=true" width="98%" />
+</div>
+
+---
+
+
+
+
 
 ## 🔗 Connect with Me  
 
