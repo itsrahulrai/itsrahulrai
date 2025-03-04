@@ -84,7 +84,6 @@
 
 
 
-
 ---
 
 ## 📊 **GitHub Stats**  
@@ -110,25 +109,9 @@
 
 ---
 
-## 🚀 **Top Languages**
-<div align="center">
-    <a href="https://github.com/itsrahulrai">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrahulrai&layout=compact&theme=radical&hide_border=true" width="48%" />
-    </a>
-</div>
-
----
-
 ## 🏆 **GitHub Trophies**  
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=itsrahulrai&theme=radical&no-frame=true&margin-w=10" />
-</div>
-
----
-
-## 💡 **Recent GitHub Activity**
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsrahulrai&theme=react-dark&hide_border=true" width="98%" />
 </div>
 
 ---
