@@ -48,7 +48,7 @@
       <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
     </td>
     <td align="center">
-     <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="48px" />
       <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
       <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
       <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
@@ -59,7 +59,7 @@
       <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
       <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
       <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+     <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" width="48px" />
       <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
     </td>
   </tr>
