@@ -109,18 +109,19 @@
 
 ---
 
-## 🔗 **Let's Connect!**  
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
-  <a href="https://www.instagram.com/yourprofile/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+## 🔗 Connect with Me  
+
+<p align="left">
+    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href="https://twitter.com/yourprofile"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+    <a href="https://www.instagram.com/yourprofile/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 </p>
 
 ---
 
-## ❤ **Profile Views & Followers**  
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat">
-    <a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat" alt="GitHub Badge"></a>
+## ❤ Views and Followers  
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=yourusername">
+    <a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
