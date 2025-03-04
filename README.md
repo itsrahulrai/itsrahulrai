@@ -33,6 +33,7 @@
 ---
 
 ## 🚀 My Skills   
+
 <table>
   <tr>
     <th>Frontend</th>
@@ -48,7 +49,6 @@
       <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
       <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="48px" alt="Tailwind CSS"/>
     </td>
-
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="48px" alt="Laravel"/>
       <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
@@ -57,7 +57,6 @@
       <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
       <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
     </td>
-
     <td align="center">
       <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
       <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
