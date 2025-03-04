@@ -12,12 +12,7 @@
 🎯 **Goal:** Become a Full Stack Developer with expertise in the MERN Stack.  
 
 💡 **Currently Exploring:**  
-<img src="https://img.icons8.com/color/48/react-native.png" width="30px"/> **React.js** •  
-<img src="https://img.icons8.com/color/48/nodejs.png" width="30px"/> **Node.js** •  
-<img src="https://img.icons8.com/fluency/48/express-js.png" width="30px"/> **Express.js** •  
-<img src="https://img.icons8.com/color/48/mongodb.png" width="30px"/> **MongoDB**
-
-
+✅ React.js • ✅ Node.js • ✅ Express.js • ✅ MongoDB  
 
 📚 **Always Learning:**  
 📌 New Web Technologies • 📌 Best Coding Practices • 📌 Scalable System Architecture  
