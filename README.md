@@ -34,21 +34,6 @@
 
 ---
 
-## 🌎 Live Projects  
-
-🚀 **Check out some of the websites I have developed:**  
-
-| 🌟 **Project** | 🛠 **Tech Stack** | 🔗 **Live Demo** |
-|--------------|----------------|---------------|
-| **[ExamBox24hrs](https://exambox24hrs.com/)** | Laravel, JavaScript | 🔗 [Visit Now](https://exambox24hrs.com/) |
-| **[Project Name 2](https://yourwebsite2.com)** | Laravel, MySQL | 🔗 [Visit Now](https://yourwebsite2.com) |
-| **[Project Name 3](https://yourwebsite3.com)** | MERN Stack (React, Node.js, MongoDB) | 🔗 [Visit Now](https://yourwebsite3.com) |
-
-> 💡 *More projects coming soon...* 🚀
-
----
-
-
 ## 🚀 **Tech Stack**  
 
 <table>
@@ -84,6 +69,21 @@
 </table>
 
 ---
+
+## 🌎 Live Projects  
+
+🚀 **Check out some of the websites I have developed:**  
+
+| 🌟 **Project** | 🛠 **Tech Stack** | 🔗 **Live Demo** |
+|--------------|----------------|---------------|
+| **[ExamBox24hrs](https://exambox24hrs.com/)** | Laravel, JavaScript | 🔗 [Visit Now](https://exambox24hrs.com/) |
+| **[Project Name 2](https://yourwebsite2.com)** | Laravel, MySQL | 🔗 [Visit Now](https://yourwebsite2.com) |
+| **[Project Name 3](https://yourwebsite3.com)** | MERN Stack (React, Node.js, MongoDB) | 🔗 [Visit Now](https://yourwebsite3.com) |
+
+> 💡 *More projects coming soon...* 🚀
+
+---
+
 
 ## 📊 **GitHub Stats**  
 <p align="center">
