@@ -88,10 +88,10 @@
 ## 📊 **GitHub Stats**  
 <p align="center">
     <a href="https://github.com/itsrahulrai">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsrahulrai&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
     </a>
     <a href="https://github.com/itsrahulrai">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrahulrai&theme=tokyonight&hide_border=true" />
     </a>
 </p>
 
@@ -99,7 +99,7 @@
 
 ## 📈 **Contribution Graph**  
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsrahulrai&theme=react-dark&hide_border=true" />
 </p>
 
 ---
