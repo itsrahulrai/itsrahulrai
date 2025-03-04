@@ -84,23 +84,26 @@
 
 ---
 
-
 ## 📊 **GitHub Stats**  
-<p align="center">
+<div align="center">
     <a href="https://github.com/itsrahulrai">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsrahulrai&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=itsrahulrai&show_icons=true&count_private=true&theme=radical&hide_border=true" width="48%" />
     </a>
     <a href="https://github.com/itsrahulrai">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrahulrai&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrahulrai&theme=radical&hide_border=true" width="48%" />
     </a>
-</p>
+    <br/>
+    <a href="https://github.com/itsrahulrai">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsrahulrai&theme=radical" width="98%" />
+    </a>
+</div>
 
 ---
 
 ## 📈 **Contribution Graph**  
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsrahulrai&theme=react-dark&hide_border=true" />
-</p>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsrahulrai&theme=github-dark&hide_border=true" width="98%" />
+</div>
 
 ---
 
