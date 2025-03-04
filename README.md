@@ -55,13 +55,13 @@
       <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
       <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-      <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
-      <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
-     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48px" alt="Postman"/>
+   <td align="center">
+    <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+    <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+    <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48px" alt="Postman"/>
+</td>
 
-    </td>
   </tr>
 </table>
 
