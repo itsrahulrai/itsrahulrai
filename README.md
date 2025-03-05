@@ -17,6 +17,22 @@
 
 ---
 
+
+## 🌎 Live Projects  
+
+🚀 **Check out some of the websites I have developed:**  
+
+| 🌟 **Project** | 🛠 **Tech Stack** | 🔗 **Live Demo** |
+|--------------|----------------|---------------|
+| **[ExamBox24hrs](https://exambox24hrs.com/)** | Laravel, JavaScript | 🔗 [Visit Now](https://exambox24hrs.com/) |
+| **[Project Name 2](https://yourwebsite2.com)** | Laravel, MySQL | 🔗 [Visit Now](https://yourwebsite2.com) |
+| **[Project Name 3](https://yourwebsite3.com)** | MERN Stack (React, Node.js, MongoDB) | 🔗 [Visit Now](https://yourwebsite3.com) |
+
+> 💡 *More projects coming soon...* 🚀
+
+---
+
+
 ## 🚀 **Tech Stack**  
 
 <table>
@@ -34,7 +50,6 @@
       <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
       <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="48px" alt="Tailwind CSS"/>
     </td>
-
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="48px" alt="Laravel"/>
       <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
@@ -42,10 +57,7 @@
       <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
       <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
       <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
-      <img src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js"/>
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-shadow-tal-revivo.png" alt="CodeIgniter"/>
     </td>
-
     <td align="center">
       <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
       <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
@@ -57,62 +69,71 @@
 
 ---
 
-## 🌎 Live Projects  
-
-🚀 **Check out some of the websites I have developed:**  
-
-| 🌟 **Project** | 🛠 **Tech Stack** | 🔗 **Live Demo** |
-|--------------|----------------|---------------|
-| **[ExamBox24hrs](https://exambox24hrs.com/)** | Laravel, JavaScript | 🔗 [Visit Now](https://exambox24hrs.com/) |
-| **[Noida Dental Solutions](https://yourwebsite2.com)** | Laravel, MySQL | 🔗 [Visit Now](https://yourwebsite2.com/) |
-| **[Project Name 3](https://yourwebsite3.com)** | MERN Stack (React, Node.js, MongoDB) | 🔗 [Visit Now](https://yourwebsite3.com) |
-
-> 💡 *More projects coming soon...* 🚀
-
----
-
 ## 📊 **GitHub Stats**  
-<div align="center">
-    <a href="https://github.com/itsrahulrai">
-        <img src="https://github-readme-stats.vercel.app/api?username=itsrahulrai&show_icons=true&count_private=true&theme=radical&hide_border=true" width="48%" />
+<p align="center">
+    <a href="https://github.com/yourusername">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
     </a>
-   <a href="https://github.com/itsrahulrai">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsrahulrai&theme=radical" width="98%" />
+    <a href="https://github.com/yourusername">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
     </a>
-    <br/>
-</div>
+</p>
 
 ---
 
 ## 📈 **Contribution Graph**  
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsrahulrai&theme=github-dark&hide_border=true" width="98%" />
-</div>
-
----
-
-## 🏆 **GitHub Trophies**  
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=itsrahulrai&theme=radical&no-frame=true&margin-w=10" />
-</div>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
 ## 🔗 Connect with Me  
 
 <p align="left">
-    <a href="https://linkedin.com/in/itsrahulrai"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://twitter.com/itsrahulrai"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-    <a href="https://www.instagram.com/itsrahulrai/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href="mailto:therahulray@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
+    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href="https://twitter.com/yourprofile"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+    <a href="https://www.instagram.com/yourprofile/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 </p>
 
 ---
 
 ## ❤ Views and Followers  
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=itsrahulrai">
-    <a href="https://github.com/itsrahulrai?tab=followers">
-        <img src="https://img.shields.io/github/followers/itsrahulrai?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://komarev.com/ghpvc/?username=yourusername">
+    <a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+## 📊 **GitHub Stats**  
+<p align="center">
+    <a href="https://github.com/itsrahulrai">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsrahulrai&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+    </a>
+    <a href="https://github.com/itsrahulrai">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrahulrai&theme=tokyonight&hide_border=true" />
     </a>
 </p>
+
+---
+
+## 📈 **Contribution Graph**  
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsrahulrai&theme=react-dark&hide_border=true" />
+</p>
+
+---
+	
