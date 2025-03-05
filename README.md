@@ -6,15 +6,11 @@
 ---
 
 ## 🙋‍♂️ About Me  
-
-🚀 **Laravel Developer | Learning MERN Stack | Passionate Full Stack Developer**  
-
 🎯 **Goal:** Become a Full Stack Developer with expertise in the MERN Stack.  
 💡 **Currently Exploring:**   React.js  Node.js  Express.js MongoDB  
 📚 **Always Learning:**  New Web Technologies  Best Coding Practices  Scalable System Architecture  
 👨‍💻 **Collaboration Interests:**  Open Source Projects  Full Stack Web Apps  
 🔥 **Tech Passion:**  Writing Clean Code  API Development  Performance Optimization  
-**Ask Me About:**  Laravel  PHP  React.js  Database Optimization  API Development  
 
 📩 **Reach Me At:**  
 📧 [therahulray@gmail.com](mailto:therahulray@gmail.com)  
