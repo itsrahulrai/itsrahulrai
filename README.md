@@ -42,7 +42,6 @@
       <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
       <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
       <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-shadow-tal-revivo.png" alt="CodeIgniter"/>
       <img src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js"/>
     </td>
 
