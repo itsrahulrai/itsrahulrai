@@ -43,6 +43,7 @@
       <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
       <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
       <img src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js"/>
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-shadow-tal-revivo.png" alt="CodeIgniter"/>
     </td>
 
     <td align="center">
@@ -54,7 +55,6 @@
   </tr>
 </table>
 
-
 ---
 
 ## 🌎 Live Projects  
@@ -64,12 +64,10 @@
 | 🌟 **Project** | 🛠 **Tech Stack** | 🔗 **Live Demo** |
 |--------------|----------------|---------------|
 | **[ExamBox24hrs](https://exambox24hrs.com/)** | Laravel, JavaScript | 🔗 [Visit Now](https://exambox24hrs.com/) |
-| **[Noida Dental Solutions](https://yourwebsite2.com)** | Laravel, MySQL | 🔗 [Visit Now]([) |
+| **[Noida Dental Solutions](https://yourwebsite2.com)** | Laravel, MySQL | 🔗 [Visit Now](https://yourwebsite2.com/) |
 | **[Project Name 3](https://yourwebsite3.com)** | MERN Stack (React, Node.js, MongoDB) | 🔗 [Visit Now](https://yourwebsite3.com) |
 
 > 💡 *More projects coming soon...* 🚀
-
-
 
 ---
 
@@ -82,7 +80,6 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsrahulrai&theme=radical" width="98%" />
     </a>
     <br/>
-    
 </div>
 
 ---
@@ -101,10 +98,6 @@
 
 ---
 
-
-
-
-
 ## 🔗 Connect with Me  
 
 <p align="left">
@@ -119,5 +112,7 @@
 ## ❤ Views and Followers  
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=itsrahulrai">
-    <a href="https://github.com/itsrahulrai?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"></a>
+    <a href="https://github.com/itsrahulrai?tab=followers">
+        <img src="https://img.shields.io/github/followers/itsrahulrai?label=Followers&style=social" alt="GitHub Badge">
+    </a>
 </p>
