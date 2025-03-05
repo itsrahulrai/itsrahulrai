@@ -7,10 +7,10 @@
 
 ## 🙋‍♂️ About Me  
 🎯 **Goal:** Become a Full Stack Developer with expertise in the MERN Stack.  
-💡 **Currently Exploring:**   React.js  Node.js  Express.js MongoDB  
-📚 **Always Learning:**  New Web Technologies  Best Coding Practices  Scalable System Architecture  
-👨‍💻 **Collaboration Interests:**  Open Source Projects  Full Stack Web Apps  
-🔥 **Tech Passion:**  Writing Clean Code  API Development  Performance Optimization  
+💡 **Currently Exploring:**   React.js | Node.js | Express.js | MongoDB  
+📚 **Always Learning:**  New Web Technologies | Best Coding Practices |  Scalable System Architecture  
+👨‍💻 **Collaboration Interests:**  Open Source Projects | Full Stack Web Apps  
+🔥 **Tech Passion:**  Writing Clean Code | API Development | Performance Optimization  
 
 📩 **Reach Me At:**  
 📧 [therahulray@gmail.com](mailto:therahulray@gmail.com)  
