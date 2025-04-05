@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/></a>
+<a href="#"><img width="100%" height="auto" src="[https://www.mygo.ge/uploads/blog/1584023795.jpg](https://github.com/Palaksharma23/Palaksharma23/raw/main/ezgif.com-gif-maker.gif)"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rahul 🚀</h1>
 <h3 align="center">Laravel Developer | Learning MERN Stack | Passionate Full Stack Developer</h3>
