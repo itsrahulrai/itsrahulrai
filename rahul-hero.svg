@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Rahul Rai — Full Stack Developer</title>
+  <desc id="desc">A burgundy technical banner with a subtle animated light sweep, grid, and orbit geometry.</desc>
+  <defs>
+    <linearGradient id="bg-rahul" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset=".55" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="sweep-rahul" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#C77B9B" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+      <animate attributeName="x1" values="-1;1;-1" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2;0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="grid-rahul" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#E5B5C7" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow-rahul" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip-rahul"><rect width="1200" height="330" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip-rahul)">
+    <rect width="1200" height="330" fill="url(#bg-rahul)"/>
+    <rect width="1200" height="330" fill="url(#grid-rahul)"/>
+    <rect x="-300" y="0" width="520" height="330" fill="url(#sweep-rahul)" opacity=".8">
+      <animate attributeName="x" values="-450;1250;-450" dur="13s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="1020" cy="82" r="150" fill="none" stroke="#C77B9B" stroke-opacity=".22"/>
+    <circle cx="1020" cy="82" r="112" fill="none" stroke="#E5B5C7" stroke-opacity=".15" stroke-dasharray="3 9">
+      <animateTransform attributeName="transform" type="rotate" from="0 1020 82" to="360 1020 82" dur="70s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M710 270 C820 190 865 310 970 220 S1100 175 1200 210" fill="none" stroke="#C77B9B" stroke-opacity=".5" stroke-width="1.5" stroke-dasharray="5 8">
+      <animate attributeName="stroke-dashoffset" values="0;-100" dur="12s" repeatCount="indefinite"/>
+    </path>
+    <path d="M68 244 H310" stroke="#C77B9B" stroke-width="3" stroke-linecap="round" filter="url(#glow-rahul)"/>
+    <circle cx="310" cy="244" r="4" fill="#E5B5C7"/>
+    <text x="68" y="112" fill="#E5B5C7" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="5">DEVELOPER • BUILDER • LIFELONG LEARNER</text>
+    <text x="64" y="190" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1.5">Rahul Rai</text>
+    <text x="68" y="222" fill="#E5B5C7" font-family="Segoe UI, Arial, sans-serif" font-size="20">Full Stack Developer  /  Laravel  /  MERN Stack</text>
+    <text x="68" y="286" fill="#C77B9B" font-family="Consolas, monospace" font-size="13">Building useful products with thoughtful engineering.</text>
+    <path d="M1060 265 l14 -14 14 14 -14 14z" fill="none" stroke="#E5B5C7" stroke-opacity=".65"/>
+    <circle cx="1114" cy="260" r="3" fill="#C77B9B"/>
+  </g>
+</svg>
