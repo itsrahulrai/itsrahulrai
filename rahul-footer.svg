@@ -1,4 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-labelledby="t">
-<title id="t">Build, learn, ship</title><defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#451126" stop-opacity="0"/><stop offset=".5" stop-color="#C77B9B"/><stop offset="1" stop-color="#451126" stop-opacity="0"/></linearGradient></defs>
-<path d="M0 25H1200" stroke="url(#line)" stroke-width="1.5"/><circle cx="600" cy="25" r="4" fill="#C77B9B"><animate attributeName="r" values="3;5;3" dur="3s" repeatCount="indefinite"/></circle>
-<text x="600" y="61" text-anchor="middle" fill="#C77B9B" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="4">BUILD  •  LEARN  •  SHIP</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="t d">
+<title id="t">Let's build something amazing together</title><desc id="d">A cinematic burgundy mountain lake at dusk, glowing rose moon, pine silhouettes, bridge, and a collaboration invitation.</desc>
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#190B12"/><stop offset=".55" stop-color="#451126"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+ <linearGradient id="lake" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#451126"/><stop offset="1" stop-color="#09060A"/></linearGradient>
+ <linearGradient id="moon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8F0F3"/><stop offset=".5" stop-color="#FF8BB5"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
+ <linearGradient id="line" x1="0" x2="1"><stop stop-color="#701A3D" stop-opacity="0"/><stop offset=".5" stop-color="#FF4F91"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+ <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="250" rx="15" fill="url(#sky)"/>
+<circle cx="835" cy="98" r="42" fill="url(#moon)" filter="url(#glow)" opacity=".95"/>
+<path d="M0 166L90 95 145 143 235 65 322 154 425 92 515 162 620 76 720 160 815 117 905 160 1000 90 1100 151 1200 95V250H0Z" fill="#280B19"/>
+<path d="M0 183L120 135 195 177 305 115 405 183 530 132 635 188 760 132 865 182 980 128 1080 184 1200 135V250H0Z" fill="#451126"/>
+<path d="M0 199L130 168 250 201 380 169 510 205 650 170 790 204 930 168 1060 203 1200 174V250H0Z" fill="#10070C"/>
+<path d="M0 203Q150 185 280 208T560 207T840 205T1200 202V250H0Z" fill="url(#lake)"/>
+<path d="M780 145L835 143L892 145M790 156L880 156M802 169L867 169M815 182L855 182" stroke="#C77B9B" stroke-opacity=".55" stroke-width="2"/>
+<!-- bridge -->
+<path d="M640 190Q835 227 1020 190" fill="none" stroke="#C77B9B" stroke-width="2"/>
+<path d="M655 190V208M705 199V213M755 204V216M805 206V217M855 205V216M905 200V213M955 194V208M1005 190V203" stroke="#C77B9B" stroke-opacity=".6"/>
+<!-- tree silhouettes -->
+<g fill="#09060A"><path d="M34 212L52 158 70 212H62L80 232H24L42 212Z"/><path d="M91 221L109 167 127 221H119L136 239H82L99 221Z"/><path d="M1120 211L1140 150 1160 211H1152L1171 232H1109L1128 211Z"/><path d="M1068 222L1084 177 1100 222H1094L1110 239H1058L1074 222Z"/></g>
+<text x="48" y="48" fill="#E5B5C7" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="3">OPEN TO COLLABORATION</text>
+<text x="48" y="83" fill="#F8F0F3" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700">Let's build something amazing together.</text>
+<text x="48" y="108" fill="#D7C4CC" font-family="Segoe UI,Arial,sans-serif" font-size="14">Have an idea, project, or opportunity? Let's connect and make it real.</text>
+<path d="M48 133H438" stroke="url(#line)" stroke-width="2"/>
+<text x="48" y="157" fill="#FF8BB5" font-family="Consolas,monospace" font-size="13">Code  /  Create  /  Collaborate</text>
+<text x="1150" y="64" text-anchor="end" fill="#E5B5C7" font-family="Georgia,serif" font-style="italic" font-size="17">Keep building.</text>
+<path d="M0 246H1200" stroke="url(#line)" stroke-width="2"/>
+</svg>

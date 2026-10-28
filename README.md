@@ -3,10 +3,10 @@
 <img src="assets/rahul-hero.svg" alt="Rahul Rai — Full Stack Developer" width="100%">
 
 <p>
-<a href="https://itsrahulrai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://linkedin.com/in/itsrahulrai"><img src="https://img.shields.io/badge/LinkedIn-Connect-451126?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:therahulray@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-701A3D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/itsrahulrai"><img src="https://img.shields.io/badge/GitHub-Profile-190B12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://itsrahulrai.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-701A3D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/itsrahulrai"><img src="https://img.shields.io/badge/LINKEDIN-Connect-451126?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:therahulray@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-701A3D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/itsrahulrai"><img src="https://img.shields.io/badge/GITHUB-Profile-190B12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=itsrahulrai&label=PROFILE%20VIEWS&color=701A3D&style=flat-square" alt="Profile views">
@@ -15,44 +15,86 @@
 
 ---
 
-## `01` — About Me
+## ✦ About Me
 
-I'm a **Full Stack Developer** with professional experience building production web applications, especially with **Laravel and PHP**. I'm growing into the **MERN stack** and enjoy shipping maintainable APIs, thoughtful interfaces, and reliable user experiences.
+I'm **Rahul Rai**, a Full Stack Developer with **2+ years of professional experience** building and maintaining web applications, primarily with Laravel and PHP. I'm expanding my skills into the MERN stack and enjoy creating practical, scalable products with clean architecture and thoughtful user experiences.
 
-- **Experience:** 2+ years building and maintaining web applications.
-- **Backend:** Laravel, PHP, REST APIs, authentication, and database workflows.
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS.
-- **Currently learning:** Node.js, Express, MongoDB, system design, and deployment fundamentals.
+<div align="center">
 
-## `02` — Tech Stack
+| `01` Backend Engineering | `02` Modern Interfaces | `03` Continuous Growth |
+|:---:|:---:|:---:|
+| Laravel, PHP, REST APIs | React, Next.js, Tailwind CSS | MERN, system design, deployment |
+
+</div>
+
+## ✦ Tech Stack
 
 <div align="center">
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend technologies">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="HTML CSS JavaScript TypeScript React Next.js Tailwind Bootstrap">
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" alt="Backend technologies">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" alt="PHP Laravel Node.js Express">
 
 **Database & Tools**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman,docker,linux&theme=dark" alt="Databases and tools">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman,docker,linux&theme=dark" alt="MySQL MongoDB Git GitHub VS Code Postman Docker Linux">
 
 </div>
 
-## `03` — Featured Work
+## ✦ Featured Work
 
-| Project | What it does | Stack / link |
-|---|---|---|
-| **AVS Packaging** | Corporate website for a packaging business | [Visit site](https://avspackaging.in/) |
-| **Gastro Wellness** | Medical products e-commerce website | [Visit site](https://gastrowellness.co.in/) |
-| **Dikshant IAS** | Education and coaching website | [Visit site](https://dikshantias.com/) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*These are website links, not claims that their source code is public. Add public repository links only when available and approved to share.*
+### 📦 AVS Packaging
+Corporate website for a packaging business.
 
-## `04` — GitHub Activity
+**Focus:** Company presentation and product/service discovery.
+
+[Visit website ↗](https://avspackaging.in/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 Gastro Wellness
+Medical products e-commerce website.
+
+**Focus:** Online product discovery and shopping experience.
+
+[Visit website ↗](https://gastrowellness.co.in/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Dikshant IAS
+Education and coaching website.
+
+**Focus:** Educational content and course discovery.
+
+[Visit website ↗](https://dikshantias.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 What I'm building toward
+More full-stack products with clear problem statements, reliable APIs, accessible UI, and measurable performance.
+
+**Current focus:** Laravel + Next.js + MERN.
+
+</td>
+</tr>
+</table>
+
+*These are public website links, not source-code repository links. Project descriptions should be adjusted if they do not accurately reflect your direct contribution.*
+
+## ✦ GitHub Activity
 
 <div align="center">
 
@@ -60,25 +102,31 @@ I'm a **Full Stack Developer** with professional experience building production 
 
 </div>
 
-*Activity visualization is supplied by a third-party service and can be unavailable or rate-limited. No contribution counts, streaks, rankings, or language percentages are manually invented.*
+<sub>Activity graph is generated by a third-party service and may be unavailable or rate-limited. No contribution counts, streaks, rankings, or language percentages are manually claimed here.</sub>
 
-## `05` — Current Focus
-
-- Building stronger full-stack projects with Laravel and Next.js.
-- Learning Node.js, Express, and MongoDB through practical development.
-- Improving application performance, API design, and system design fundamentals.
-- Developing a consistent workflow for testing, version control, and deployment.
-
-## `06` — Connect
+## ✦ Currently Learning
 
 <div align="center">
 
-<a href="https://github.com/itsrahulrai"><img src="https://img.shields.io/badge/GitHub-190B12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://linkedin.com/in/itsrahulrai"><img src="https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://itsrahulrai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-701A3D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="mailto:therahulray@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-C77B9B?style=for-the-badge&logo=gmail&logoColor=190B12" alt="Email"></a>
+| Area | Focus |
+|---|---|
+| **MERN Stack** | Building confidence with Node.js, Express, MongoDB, and React |
+| **Next.js** | Rendering patterns, application architecture, and performance |
+| **System Design** | Scalable APIs, caching, and maintainable service boundaries |
+| **DevOps** | Docker fundamentals and deployment workflows |
 
-<img src="assets/rahul-footer.svg" alt="Build, learn, ship" width="100%">
+</div>
+
+## ✦ Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/itsrahulrai"><img src="https://img.shields.io/badge/GitHub-View_Profile-190B12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+<a href="https://linkedin.com/in/itsrahulrai"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-451126?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
+<a href="https://itsrahulrai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-701A3D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="mailto:therahulray@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-C77B9B?style=for-the-badge&logo=gmail&logoColor=190B12" alt="Email"></a>
+
+<img src="assets/rahul-footer.svg" alt="Let's build something amazing together" width="100%">
 
 *“Great software is built one thoughtful improvement at a time.”*
 

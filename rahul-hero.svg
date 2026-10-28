@@ -1,38 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
-<title id="t">Rahul Rai — Full Stack Developer</title>
-<desc id="d">A modern cinematic burgundy developer banner with code panels, a subtle grid, mountain-like abstract shapes, and glowing rose accents.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Rahul Rai — Full Stack Developer</title>
+<desc id="desc">Cinematic burgundy developer workspace with code screens, sunset mountains, rose neon accents and Rahul Rai's developer introduction.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10070C"/><stop offset=".55" stop-color="#190B12"/><stop offset="1" stop-color="#451126"/></linearGradient>
- <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8F0F3"/><stop offset=".55" stop-color="#E5B5C7"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
- <linearGradient id="shine" x1="0" x2="1"><stop stop-color="#701A3D" stop-opacity="0"/><stop offset=".5" stop-color="#C77B9B" stop-opacity=".24"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09060A"/><stop offset=".55" stop-color="#190B12"/><stop offset="1" stop-color="#451126"/></linearGradient>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#701A3D"/><stop offset=".55" stop-color="#2A0D1B"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+ <linearGradient id="rose" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8F0F3"/><stop offset=".5" stop-color="#E5B5C7"/><stop offset="1" stop-color="#FF4F91"/></linearGradient>
+ <linearGradient id="shine" x1="0" x2="1"><stop stop-color="#701A3D" stop-opacity="0"/><stop offset=".5" stop-color="#FF4F91" stop-opacity=".28"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#E5B5C7" stroke-opacity=".075"/></pattern>
- <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
- <clipPath id="clip"><rect width="1200" height="360" rx="20"/></clipPath>
+ <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="clip"><rect width="1200" height="430" rx="18"/></clipPath>
 </defs>
 <g clip-path="url(#clip)">
- <rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
- <circle cx="940" cy="125" r="178" fill="none" stroke="#C77B9B" stroke-opacity=".17"/><circle cx="940" cy="125" r="132" fill="none" stroke="#E5B5C7" stroke-opacity=".18" stroke-dasharray="2 9"><animateTransform attributeName="transform" type="rotate" from="0 940 125" to="360 940 125" dur="75s" repeatCount="indefinite"/></circle>
- <path d="M565 290 L690 155 L755 220 L850 110 L1000 275 L1100 185 L1200 280 V360 H565Z" fill="#451126" opacity=".75"/>
- <path d="M610 300 L730 190 L790 240 L875 145 L1000 290 L1100 220 L1200 300" fill="none" stroke="#C77B9B" stroke-opacity=".38"/>
- <g opacity=".9">
-  <rect x="700" y="72" width="150" height="94" rx="7" fill="#10070C" stroke="#C77B9B" stroke-opacity=".65"/>
-  <rect x="710" y="83" width="130" height="10" rx="2" fill="#451126"/>
-  <path d="M713 108h44m-44 12h75m-75 12h56m-56 12h89" stroke="#C77B9B" stroke-width="3" stroke-linecap="round" opacity=".75"/>
-  <rect x="868" y="52" width="165" height="108" rx="7" fill="#10070C" stroke="#C77B9B" stroke-opacity=".7"/>
-  <rect x="878" y="63" width="145" height="10" rx="2" fill="#451126"/>
-  <path d="M881 89h53m-53 12h100m-100 12h68m-68 12h88m-88 12h43" stroke="#E5B5C7" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+ <rect width="1200" height="430" fill="url(#bg)"/><rect width="1200" height="430" fill="url(#grid)"/>
+ <rect x="585" y="0" width="615" height="330" fill="url(#sky)" opacity=".85"/>
+ <circle cx="930" cy="132" r="54" fill="#F58BAF" opacity=".8" filter="url(#glow)"/>
+ <path d="M570 270L690 142 756 211 850 102 951 220 1036 155 1200 282V350H570Z" fill="#280B19"/>
+ <path d="M570 292L690 192 748 241 850 150 951 259 1036 201 1200 303V350H570Z" fill="#451126"/>
+ <path d="M570 309L690 249 760 275 870 205 958 290 1070 246 1200 320V350H570Z" fill="#10070C"/>
+ <!-- code screens -->
+ <g stroke="#C77B9B" stroke-opacity=".72" fill="#0C080D">
+  <rect x="666" y="106" width="175" height="114" rx="7"/><rect x="855" y="85" width="195" height="135" rx="7"/><rect x="1064" y="120" width="108" height="100" rx="7"/>
  </g>
- <rect x="-350" y="0" width="350" height="360" fill="url(#shine)"><animate attributeName="x" values="-350;1250;-350" dur="12s" repeatCount="indefinite"/></rect>
- <text x="64" y="66" fill="#E5B5C7" font-family="Consolas,monospace" font-size="13" letter-spacing="2">developer@rahul:~$</text>
- <text x="64" y="91" fill="#C77B9B" font-family="Consolas,monospace" font-size="13">Building ideas into reality...</text>
- <text x="60" y="153" fill="#E5B5C7" font-family="Georgia,serif" font-size="31" font-style="italic">Hi, I'm</text>
- <text x="56" y="220" fill="#F8F0F3" font-family="Segoe UI,Arial,sans-serif" font-size="69" font-weight="800" letter-spacing="-2">RAHUL <tspan fill="#C77B9B">RAI</tspan></text>
- <text x="64" y="253" fill="#F8F0F3" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600">Full Stack Developer  |  Laravel  |  MERN Stack Learner</text>
- <text x="64" y="283" fill="#D7C4CC" font-family="Segoe UI,Arial,sans-serif" font-size="15">Building scalable web apps with clean architecture and modern technology.</text>
- <rect x="64" y="307" width="175" height="34" rx="17" fill="url(#pink)"/>
- <text x="151" y="329" text-anchor="middle" fill="#190B12" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">VIEW PORTFOLIO  ↗</text>
- <path d="M64 350 H1135" stroke="#C77B9B" stroke-opacity=".55"/><circle cx="1135" cy="350" r="4" fill="#E5B5C7" filter="url(#glow)"/>
- <text x="1080" y="205" text-anchor="middle" fill="#E5B5C7" font-family="Georgia,serif" font-size="20" font-style="italic" transform="rotate(-8 1080 205)">Code</text>
- <text x="1080" y="231" text-anchor="middle" fill="#E5B5C7" font-family="Georgia,serif" font-size="20" font-style="italic" transform="rotate(-8 1080 231)">Create</text>
- <text x="1080" y="257" text-anchor="middle" fill="#E5B5C7" font-family="Georgia,serif" font-size="20" font-style="italic" transform="rotate(-8 1080 257)">Repeat</text>
+ <g stroke="#E5B5C7" stroke-width="3" stroke-linecap="round" opacity=".78">
+  <path d="M680 124h48m-48 12h104m-104 12h75m-75 12h89m-89 12h55m-55 12h96"/>
+  <path d="M870 104h64m-64 12h120m-120 12h82m-82 12h133m-133 12h99m-99 12h71m-71 12h115m-115 12h59"/>
+  <path d="M1075 138h42m-42 12h72m-72 12h56m-56 12h64m-64 12h35"/>
+ </g>
+ <!-- desk and seated coder silhouette -->
+ <path d="M615 282H1195L1200 301H600Z" fill="#09060A" stroke="#C77B9B" stroke-opacity=".65"/>
+ <path d="M785 282Q772 239 809 218Q836 202 865 220Q892 238 887 282Z" fill="#09060A" stroke="#701A3D" stroke-width="3"/>
+ <path d="M813 222Q794 194 812 166Q830 139 858 159Q880 176 867 207L857 229Z" fill="#080609"/>
+ <path d="M805 242L755 270M873 242L918 269" stroke="#09060A" stroke-width="19" stroke-linecap="round"/>
+ <path d="M827 280V321M856 280V321" stroke="#09060A" stroke-width="15"/>
+ <path d="M680 302H1100" stroke="#C77B9B" stroke-opacity=".25"/>
+ <!-- sweep animation -->
+ <rect x="-280" y="0" width="280" height="430" fill="url(#shine)"><animate attributeName="x" values="-280;1250;-280" dur="13s" repeatCount="indefinite"/></rect>
+ <text x="58" y="53" fill="#E5B5C7" font-family="Consolas,monospace" font-size="13" letter-spacing="2">developer@rahul:~$</text>
+ <text x="58" y="76" fill="#C77B9B" font-family="Consolas,monospace" font-size="13">Building ideas into real solutions...</text>
+ <text x="55" y="133" fill="#E5B5C7" font-family="Georgia,serif" font-size="31" font-style="italic">Hi, I'm</text>
+ <text x="50" y="205" fill="#F8F0F3" font-family="Segoe UI,Arial,sans-serif" font-size="67" font-weight="800" letter-spacing="-2">RAHUL <tspan fill="#FF4F91">RAI</tspan></text>
+ <text x="59" y="239" fill="#F8F0F3" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Full Stack Developer  |  Laravel  |  MERN Stack Learner</text>
+ <text x="59" y="268" fill="#D7C4CC" font-family="Segoe UI,Arial,sans-serif" font-size="14">I build scalable web apps with clean architecture,</text>
+ <text x="59" y="289" fill="#D7C4CC" font-family="Segoe UI,Arial,sans-serif" font-size="14">modern technology, and a focus on real-world problems.</text>
+ <rect x="58" y="315" width="155" height="37" rx="18" fill="url(#rose)"/><text x="135" y="338" text-anchor="middle" fill="#190B12" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">VIEW PORTFOLIO  ↗</text>
+ <g fill="#F8F0F3" stroke="#C77B9B" stroke-width="1.5"><circle cx="248" cy="334" r="18" fill="#190B12"/><circle cx="296" cy="334" r="18" fill="#190B12"/><circle cx="344" cy="334" r="18" fill="#190B12"/><circle cx="392" cy="334" r="18" fill="#190B12"/></g>
+ <g fill="#E5B5C7" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" text-anchor="middle"><text x="248" y="339">GH</text><text x="296" y="339">in</text><text x="344" y="339">@</text><text x="392" y="339">X</text></g>
+ <path d="M58 378H1140" stroke="#C77B9B" stroke-opacity=".5"/><circle cx="1140" cy="378" r="4" fill="#FF4F91" filter="url(#glow)"/>
+ <text x="58" y="403" fill="#C77B9B" font-family="Consolas,monospace" font-size="12">CLEAN CODE  •  SCALABLE APPS  •  CONTINUOUS LEARNING</text>
 </g></svg>
