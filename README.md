@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/rahul-hero.svg" alt="Rahul Rai — Full Stack Developer" width="100%">
+<img src="/rahul-hero.svg" alt="Rahul Rai — Full Stack Developer" width="100%">
 
 <p>
   <a href="https://itsrahulrai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&logo=vercel&logoColor=F8F0F3" alt="Portfolio"></a>
