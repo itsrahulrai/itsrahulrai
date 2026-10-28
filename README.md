@@ -88,7 +88,7 @@ GitHub activity graphs and statistics are provided by external services and may 
 
 <div align="center">
 
-<img src="assets/rahul-footer.svg" alt="Build, learn, ship" width="100%">
+<img src="/rahul-footer.svg" alt="Build, learn, ship" width="100%">
 
 *“Great software is built one thoughtful improvement at a time.”*
 
